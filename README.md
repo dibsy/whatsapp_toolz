@@ -5,13 +5,17 @@ I created this tool to extract the urls that is shared in our whatsapp group so 
 
 Usage 
 
-
+```
 dev@ubuntu:~/Desktop$ python extract.py chat.txt 
+
 https://github.com/redhuntlabs/Redhunt-OS
+
 
 https://youtu.be/bFkbIAFiuGQ
 
+
 https://www.bbc.com/news/business-46464730
 
-https://blog.netspi.com/get-azurepasswords/
 
+https://blog.netspi.com/get-azurepasswords/
+```
